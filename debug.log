@@ -1,0 +1,25 @@
+INFO 2024-08-24 19:40:51,516 "GET / HTTP/1.1" 200 499
+INFO 2024-08-24 19:41:03,429 "POST / HTTP/1.1" 200 23
+INFO 2024-08-24 19:41:22,439 "POST / HTTP/1.1" 200 23
+INFO 2024-08-24 19:41:57,721 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:41:58,200 Watching for file changes with StatReloader
+INFO 2024-08-24 19:42:11,684 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:42:12,187 Watching for file changes with StatReloader
+INFO 2024-08-24 19:42:33,014 "POST / HTTP/1.1" 200 23
+INFO 2024-08-24 19:43:17,122 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:43:17,687 Watching for file changes with StatReloader
+INFO 2024-08-24 19:43:22,112 "POST / HTTP/1.1" 200 23
+INFO 2024-08-24 19:43:58,095 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:43:58,576 Watching for file changes with StatReloader
+INFO 2024-08-24 19:44:49,194 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:44:49,658 Watching for file changes with StatReloader
+INFO 2024-08-24 19:45:14,420 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:45:14,888 Watching for file changes with StatReloader
+INFO 2024-08-24 19:45:43,865 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:45:44,343 Watching for file changes with StatReloader
+INFO 2024-08-24 19:45:51,369 name 'user' is not defined
+INFO 2024-08-24 19:45:51,369 "POST / HTTP/1.1" 200 23
+INFO 2024-08-24 19:46:29,856 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:46:30,328 Watching for file changes with StatReloader
+INFO 2024-08-24 19:46:39,772 C:\Users\gagan\OneDrive\Desktop\logging_as_debugger\logging_tutorial\authenticate\views.py changed, reloading.
+INFO 2024-08-24 19:46:40,225 Watching for file changes with StatReloader
