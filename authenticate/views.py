@@ -4,7 +4,7 @@ from django.contrib.auth import authenticate, login
 from django.http import HttpResponse
 from django.shortcuts import render
 
-logger = logging.getLogger('django') #initiate our logger
+logger = logging.getLogger('django') #Get an instance of a logger
 
 def login_view(request):
         
@@ -14,6 +14,7 @@ def login_view(request):
                 # Attempt to sign user in
                 username = request.POST["username"]
                 password = request.POST["password"]
+
                 # user = authenticate(request, username=username, password=password)
 
                 # Check if authentication successful
@@ -25,6 +26,6 @@ def login_view(request):
             else:
                 return render(request, 'authenticate/login.html')
         except Exception as e:
-            logger.info(str(e))
-            return HttpResponse('Something bad occured..')
+            logger.error(str(e), exc_info=True) #added exception handling for better error handling
+            return HttpResponse('Out of service! <br> Please try again later...')
     
